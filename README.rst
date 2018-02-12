@@ -11,7 +11,7 @@ A Django project for exploring ways to display digital text with the purpose of 
 :License: BSD
 
 Why
-^^^
+---
 
 This project is inspired by instruction found in a [CES devotional given by Elder David A. Bednar on February 4, 2007 entitled `*A Reservoir of Living Water* <http://media.ldscdn.org/pdf/ces-firesides/2007-ces-firesides-for-young-adults/2007-02-0010-a-reservoir-of-living-water-eng.pdf>`_.
 
