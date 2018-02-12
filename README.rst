@@ -10,6 +10,27 @@ A Django project for exploring ways to display digital text with the purpose of 
 
 :License: BSD
 
+Why
+^^^
+
+This project is inspired by instruction found in a [CES devotional given by Elder David A. Bednar on February 4, 2007 entitled `*A Reservoir of Living Water* <http://media.ldscdn.org/pdf/ces-firesides/2007-ces-firesides-for-young-adults/2007-02-0010-a-reservoir-of-living-water-eng.pdf>`_.
+
+Elder Bednar (2007) identifies three ways to obtain living water from the scriptures. They include:
+
+1. "*[R]eading* the scriptures from beginning to end"
+2. "*[S]tudying* the scriptures by topic"
+3. "*[S]earching* the scriptures for connections, patterns, and themes"
+
+This project is structured to follow these three methods for obtaining living water:
+
+1. Digital text display
+2. Gospel study topics
+3. Identifying connections, patterns, and themes
+
+References
+^^^^^^^^^^
+
+Bednar, D. A. (2007). A reservoir of living water. *CES Fireside for Young Adults*, February 4, 2007. Retrieved from `<https://www.lds.org/broadcasts/archive/ces-devotionals/2007/01>`_
 
 Settings
 --------
