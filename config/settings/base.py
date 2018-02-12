@@ -56,6 +56,9 @@ LOCAL_APPS = [
     # custom users app
     'passage.users.apps.UsersConfig',
     # Your stuff: custom apps go here
+    'readings',
+    'topics',
+    'searches',
 ]
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
